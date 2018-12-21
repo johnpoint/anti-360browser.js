@@ -10,7 +10,6 @@
 ![Selection_008.png](https://i.loli.net/2018/12/21/5c1cffd2d26ab.png)
 ## 感谢
 
-判断360浏览器代码的编写
-
+核心代码：
 [mumuy](https://github.com/mumuy) 的 浏览器分析判断工具 
 项目地址：https://github.com/mumuy/browser

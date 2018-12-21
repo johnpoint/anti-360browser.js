@@ -32,15 +32,6 @@ function() {
             '360EE': u.indexOf('360EE') > -1,
             '360SE': u.indexOf('360SE') > -1,
         };
-        if (_this.browser == 'Edge') {
-            _this.engine = 'EdgeHTML';
-        } else if (_this.browser == 'Chrome' && parseInt(_this.version) > 27) {
-            _this.engine = 'Blink';
-        } else if (_this.browser == 'Opera' && parseInt(_this.version) > 12) {
-            _this.engine = 'Blink';
-        } else if (_this.browser == 'Yandex') {
-            _this.engine = 'Blink';
-        }
     };
 }));
 if (new Browser().browser == '360' || new Browser().browser == '360SE' || new Browser().browser == '360SE') {

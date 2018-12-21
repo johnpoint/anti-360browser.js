@@ -7,7 +7,7 @@
 
 ## 效果
 ![Selection_007.png](https://i.loli.net/2018/12/21/5c1cff0c565c6.png)
-
+![Selection_008.png](https://i.loli.net/2018/12/21/5c1cffd2d26ab.png)
 ## 感谢
 
 判断360浏览器代码的编写

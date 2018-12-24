@@ -34,7 +34,7 @@ function() {
         };
     };
 }));
-if (new Browser().browser == '360' || new Browser().browser == '360SE' || new Browser().browser == '360SE') {
+if (new Browser().browser == '360' || new Browser().browser == '360EE' || new Browser().browser == '360SE') {
     window.alert('请不要使用360浏览器');
     document.write('<html><body bgcolor="red"><h1>请不要使用360浏览器</h1></body></html>')
 }
